@@ -15,4 +15,4 @@ Right now, I'm:
 📌 Follow my progress here — I’ll keep updating this repo with new exercises and mini-projects.
 
 
-EMAIL : ouissal.attaaricha@gmail.com
+ouissal.attaaricha@gmail.com
