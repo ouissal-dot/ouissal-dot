@@ -12,7 +12,6 @@ I'm currently learning and growing in programming.
 - Small real-world projects
 - Consistency: learn → practice → improve
 
-📌 Follow my progress here — I’ll keep updating this repo with new exercises and mini-projects.
 
 
 ouissal.attaaricha@gmail.com
