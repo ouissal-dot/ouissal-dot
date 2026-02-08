@@ -9,7 +9,6 @@
 Welcome to my profile!
 
 
-
 I'm currently learning and growing in programming.  
 
 - Studying core web development (HTML, CSS, JavaScript) using **W3Schools**
@@ -23,4 +22,4 @@ I'm currently learning and growing in programming.
 
 
 
-ouissal.attaaricha@gmail.com
+
