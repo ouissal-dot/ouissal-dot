@@ -2,8 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ouissal%20Attaaricha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ouissal-attaaricha-651196255)](https://www.linkedin.com/in/ouissal-attaaricha-651196255)
-[![Portfolio Badge](https://img.shields.io/badge/-My%20Portfolio-darkviolet?style=flat&logo=vercel&logoColor=white&link=https://ouissal-portfolio-n9xv.vercel.app/)](https://ouissal-portfolio-n9xv.vercel.app/)
-
+[![Website](https://img.shields.io/badge/My%20Portfolio-darkviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://ouissal-portfolio-n9xv.vercel.app/)
 [![Instagram Badge](https://img.shields.io/badge/-@ouissal__attaaricha-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ouissal_attaaricha/)](https://www.instagram.com/ouissal_attaaricha/)
 [![Gmail Badge](https://img.shields.io/badge/-ouissal.attaaricha-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ouissal.attaaricha@gmail.com)](mailto:ouissal.attaaricha@gmail.com)
 
