@@ -8,7 +8,7 @@
 Welcome to my profile!
 
 
-I'm currently learning and growing in programming.  
+I'm currently learning and growing in programming for studing ausbildung IT in germany.  
 
 - Studying core web development (HTML, CSS, JavaScript) using **W3Schools**
 - Working on **certifications** to strengthen my skills
