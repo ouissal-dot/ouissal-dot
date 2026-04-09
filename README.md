@@ -36,15 +36,6 @@
 
 ---
 
-### 🚀 Featured Project
-
-<a href="https://focus-hub-pearl.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ouissal-dot&repo=focus-hub&theme=dark&hide_border=true" />
-</a>
-
-> 🧮 Calculator · ✅ To-Do List · ⏱ Stopwatch · 🎮 Tic Tac Toe · 💱 Currency Converter · 🌤 Weather App · 🍅 Pomodoro Timer
-
----
 
 ### 📊 GitHub Stats
 
