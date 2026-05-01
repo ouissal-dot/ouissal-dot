@@ -19,9 +19,8 @@
 
 - 🔭 Currently working on **[Focus Hub](https://focus-hub-pearl.vercel.app)** — an all-in-one productivity dashboard
 - 🌱 Learning more about **JavaScript**, **APIs**, and **responsive design**
-- 💬 Ask me about **HTML**, **CSS**, **vanilla JS**
 - 🌍 Based in **Morocco 🇲🇦**
-- ⚡ Fun fact: I named my timer app "Pamadoro" 🍅
+
 
 ---
 
