@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Ouissal%20Attaaricha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouissal-attaaricha-651196255)
 [![Instagram](https://img.shields.io/badge/@ouissal__attaaricha-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ouissal_attaaricha/)
 [![Gmail](https://img.shields.io/badge/ouissal.attaaricha-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ouissal.attaaricha@gmail.com)
+![Learning Level](https://img.shields.io/badge/Learning-A2--B1--B2-orange)
 
 ### 🧠 Frontend Developer · Building tools that help people focus
 
@@ -17,7 +18,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 Currently working on **[Focus Hub](https://focus-hub-pearl.vercel.app)** — an all-in-one productivity dashboard
+- 🔭 Currently working on **Figma** — an all-in-one productivity dashboard
 - 🌱 Learning more about **JavaScript**, **APIs**, and **responsive design**
 - 🌍 Based in **Morocco 🇲🇦**
 
